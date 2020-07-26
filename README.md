@@ -58,3 +58,4 @@ Data files are not included
 ### Credits
 [source repo](https://github.com/udacity/pdsnd_github)
 [fork repo](https://github.com/kondig/pdsnd_github)
+[markup guide](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
