@@ -5,13 +5,14 @@
 Explore US Bikeshare data
 
 ### Description
-*TL;DR Uncover US bike share usage patterns using a Python program*
+*TL;DR Uncover bike share usage patterns using a Python data analysis program*
 System usage data from three large cities: Chicago, New York City, and Washington, DC.
 Randomly selected data for the first six months of 2017 are provided for all three cities.
 
-#####Data
+##### Data
 Data provided by **Motivate**, a bike share system provider for many major cities in the United States.
 All three of the data files contain the same core six (6) columns:
+
     * Start Time
     * End Time
     * Trip Duration
@@ -24,7 +25,7 @@ The Chicago and New York City files also have the following two columns:
     * Gender
     * Birth Year
 
-#####Statistics Computed
+##### Statistics Computed
 
     1. Popular times of travel
 
