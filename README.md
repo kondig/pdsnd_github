@@ -5,7 +5,7 @@
 Explore US Bikeshare data
 
 ### Description
-*TL;DR Uncover bike share usage patterns using a Python data analysis program*
+*TL;DR Uncover bike share usage patterns using a Python data analysis program*\
 System usage data from three large cities: Chicago, New York City, and Washington, DC.
 Randomly selected data for the first six months of 2017 are provided for all three cities.
 
@@ -33,18 +33,18 @@ The Chicago and New York City files also have the following two columns:
         * most common day of week
         * most common hour of day
 
-    1. Popular stations and trip
+    2. Popular stations and trip
 
         * most common start station
         * most common end station
         * most common trip from start to end
 
-    1. Trip duration
+    3. Trip duration
 
         * total travel time
         * average travel time
 
-    1. User info
+    4. User info
 
         * counts of each user type
         * counts of each gender (only available for NYC and Chicago)
@@ -52,10 +52,10 @@ The Chicago and New York City files also have the following two columns:
 
 
 ### Files used
-bikeshare.py
+bikeshare.py\
 Data files are not included
 
 ### Credits
-[source repo](https://github.com/udacity/pdsnd_github)
-[fork repo](https://github.com/kondig/pdsnd_github)
-[markup guide](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+[source repo](https://github.com/udacity/pdsnd_github)\
+[fork repo](https://github.com/kondig/pdsnd_github)\
+[markup guide](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)\
